@@ -1,0 +1,10 @@
+{
+  "semi": true,                   // Add semicolons at the ends of statements
+  "singleQuote": true,            // Use single quotes instead of double quotes
+  "tabWidth": 2,                  // Set the number of spaces per indentation level
+  "printWidth": 80,               // Wrap lines that exceed 80 characters
+  "useTabs": false,               // Indent lines with spaces instead of tabs
+  "trailingComma": "all",         // Add trailing commas wherever possible
+  "bracketSpacing": true,         // Add spaces between brackets in object literals
+  "arrowParens": "always",        // Always include parens in arrow functions
+}
